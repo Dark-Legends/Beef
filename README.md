@@ -5,7 +5,8 @@ Hey guys Beef Tool on termux easily install and use Without 'Root'
 The Beef Tool in a browser exploitation tool and It a Pentesting tool ...
 
 
-    <img scr="Screenshot_20231004_140942.jpg"/>
+    <img src="Screenshot_20231004_140942.jpg"/>
+
 
 # ⚠️ This Tool Test On 
 This tool only works on Termux 
